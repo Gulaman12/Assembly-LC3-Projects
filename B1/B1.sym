@@ -1,0 +1,23 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	askuser                 3000
+//	binary                  3014
+//	check                   300D
+//	checksv                 3010
+//	digit                   3031
+//	digit0                  303B
+//	digit9                  303C
+//	enter                   303D
+//	loop                    3004
+//	num0                    303E
+//	num1                    3043
+//	num2                    3048
+//	num3                    304D
+//	num4                    3052
+//	num5                    3057
+//	num6                    305C
+//	num7                    3061
+//	num8                    3066
+//	num9                    306B
+//	prompt                  3021
+//	stop                    300C

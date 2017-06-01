@@ -1,0 +1,18 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	askuser                 3000
+//	check                   300E
+//	digit0                  3057
+//	digit2                  3059
+//	digit3                  3058
+//	digit9                  305A
+//	enter                   305C
+//	fibonacci               300C
+//	input                   304D
+//	loop                    3004
+//	morechar                301A
+//	prompt                  302F
+//	reask                   300D
+//	singlechar              3011
+//	space                   305B
+//	twentydigit             3029
